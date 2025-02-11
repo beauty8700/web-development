@@ -1,0 +1,30 @@
+# Ignore system directories
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+VirtualBox VMs/
+.vscode/
+.PycharmProjects/
+Downloads/
+Music/
+Pictures/
+Videos/
+Saved Games/
+Searches/
+Tracing/
+npm-cache/
+ntuser.dat*
+NTUSER.DAT*
+.gitconfig
+.cache/
+.jdks/
+.m2/
+.node_repl_history
